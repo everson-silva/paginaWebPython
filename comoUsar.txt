@@ -1,0 +1,4 @@
+pip freeze > requirements.txt
+isso irar instalar todo para executar o app
+pip freeze > requirements.txt
+atualiza a lista
